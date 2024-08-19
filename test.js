@@ -1,2 +1,5 @@
 console.log("Haha Xin chao")
 console.log("Haha Xin chao" + 111)
+console.log("Haha Xin chao" + 111)
+console.log("Haha Xin chao" + 111)
+console.log("Haha Xin chao" + 111)
